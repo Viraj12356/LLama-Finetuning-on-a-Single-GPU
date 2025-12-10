@@ -1,0 +1,1359 @@
+Total Params: 6750801920   Trainable params: 11288576
+epoch 0  sample - 0   loss - 0.06534334272146225
+epoch 0  sample - 1   loss - 0.19476155936717987
+epoch 0  sample - 2   loss - 0.15361744165420532
+epoch 0  sample - 3   loss - 0.11255162954330444
+epoch 0  sample - 4   loss - 0.15188640356063843
+epoch 0  sample - 5   loss - 0.18621601164340973
+epoch 0  sample - 6   loss - 0.32197579741477966
+accumulated loss after 8 samples - 2.578551769256592
+
+epoch 0  sample - 7   loss - 1.3921995162963867
+epoch 0  sample - 8   loss - 0.541561484336853
+epoch 0  sample - 9   loss - 0.14894723892211914
+epoch 0  sample - 10   loss - 0.1913837045431137
+epoch 0  sample - 11   loss - 0.210062637925148
+epoch 0  sample - 12   loss - 0.19640088081359863
+epoch 0  sample - 13   loss - 0.3125908374786377
+epoch 0  sample - 14   loss - 0.29737743735313416
+accumulated loss after 8 samples - 2.103809356689453
+
+epoch 0  sample - 15   loss - 0.20548507571220398
+epoch 0  sample - 16   loss - 0.1187358945608139
+epoch 0  sample - 17   loss - 0.15539588034152985
+epoch 0  sample - 18   loss - 0.5564644932746887
+epoch 0  sample - 19   loss - 0.6510774493217468
+epoch 0  sample - 20   loss - 0.17413072288036346
+epoch 0  sample - 21   loss - 0.12605157494544983
+epoch 0  sample - 22   loss - 0.1362394392490387
+accumulated loss after 8 samples - 2.0372579097747803
+
+epoch 0  sample - 23   loss - 0.11916258931159973
+epoch 0  sample - 24   loss - 0.1812768131494522
+epoch 0  sample - 25   loss - 0.18928848206996918
+epoch 0  sample - 26   loss - 0.24914290010929108
+epoch 0  sample - 27   loss - 0.24569977819919586
+epoch 0  sample - 28   loss - 0.19222956895828247
+epoch 0  sample - 29   loss - 0.682910680770874
+epoch 0  sample - 30   loss - 0.2346470057964325
+accumulated loss after 8 samples - 2.195673704147339
+
+epoch 0  sample - 31   loss - 0.2204786092042923
+epoch 0  sample - 32   loss - 0.23316283524036407
+epoch 0  sample - 33   loss - 0.1416531354188919
+epoch 0  sample - 34   loss - 0.32428061962127686
+epoch 0  sample - 35   loss - 0.39146867394447327
+epoch 0  sample - 36   loss - 0.1819247603416443
+epoch 0  sample - 37   loss - 0.20793679356575012
+epoch 0  sample - 38   loss - 0.39142999053001404
+accumulated loss after 8 samples - 2.1031653881073
+
+epoch 0  sample - 39   loss - 0.23130865395069122
+epoch 0  sample - 40   loss - 0.4175699055194855
+epoch 0  sample - 41   loss - 0.1372845470905304
+epoch 0  sample - 42   loss - 0.2913719713687897
+epoch 0  sample - 43   loss - 0.19219137728214264
+epoch 0  sample - 44   loss - 0.15694577991962433
+epoch 0  sample - 45   loss - 0.12418296188116074
+epoch 0  sample - 46   loss - 0.15118472278118134
+accumulated loss after 8 samples - 1.5926259756088257
+
+epoch 0  sample - 47   loss - 0.12189476191997528
+epoch 0  sample - 48   loss - 0.13602417707443237
+epoch 0  sample - 49   loss - 0.15030017495155334
+epoch 0  sample - 50   loss - 0.17845134437084198
+epoch 0  sample - 51   loss - 0.17576108872890472
+epoch 0  sample - 52   loss - 0.1743708997964859
+epoch 0  sample - 53   loss - 0.17155511677265167
+epoch 0  sample - 54   loss - 0.32096123695373535
+accumulated loss after 8 samples - 1.4147615432739258
+
+epoch 0  sample - 55   loss - 0.10733748972415924
+epoch 0  sample - 56   loss - 0.22777007520198822
+epoch 0  sample - 57   loss - 0.15764479339122772
+epoch 0  sample - 58   loss - 0.10793706029653549
+epoch 0  sample - 59   loss - 1.0810308456420898
+epoch 0  sample - 60   loss - 0.14813749492168427
+epoch 0  sample - 61   loss - 0.19207517802715302
+epoch 0  sample - 62   loss - 0.19965586066246033
+accumulated loss after 8 samples - 2.334743022918701
+
+epoch 0  sample - 63   loss - 0.22049187123775482
+epoch 0  sample - 64   loss - 0.18488480150699615
+epoch 0  sample - 65   loss - 0.2043403536081314
+epoch 0  sample - 66   loss - 0.15080344676971436
+epoch 0  sample - 67   loss - 0.32533812522888184
+epoch 0  sample - 68   loss - 0.10451345890760422
+epoch 0  sample - 69   loss - 0.19934748113155365
+epoch 0  sample - 70   loss - 0.21640950441360474
+accumulated loss after 8 samples - 1.6513630151748657
+
+epoch 0  sample - 71   loss - 0.2657259702682495
+epoch 0  sample - 72   loss - 0.1633763611316681
+epoch 0  sample - 73   loss - 0.1535850465297699
+epoch 0  sample - 74   loss - 0.19072303175926208
+epoch 0  sample - 75   loss - 0.20746608078479767
+epoch 0  sample - 76   loss - 0.2116129845380783
+epoch 0  sample - 77   loss - 0.35269472002983093
+epoch 0  sample - 78   loss - 0.20067475736141205
+accumulated loss after 8 samples - 1.7807494401931763
+
+epoch 0  sample - 79   loss - 0.30061638355255127
+epoch 0  sample - 80   loss - 0.1437741219997406
+epoch 0  sample - 81   loss - 0.12749212980270386
+epoch 0  sample - 82   loss - 0.20701229572296143
+epoch 0  sample - 83   loss - 0.35182762145996094
+epoch 0  sample - 84   loss - 0.15394023060798645
+epoch 0  sample - 85   loss - 0.19811128079891205
+epoch 0  sample - 86   loss - 0.3551138937473297
+accumulated loss after 8 samples - 1.6355785131454468
+
+epoch 0  sample - 87   loss - 0.0983070433139801
+epoch 0  sample - 88   loss - 0.14254768192768097
+epoch 0  sample - 89   loss - 0.28046706318855286
+epoch 0  sample - 90   loss - 0.22293825447559357
+epoch 0  sample - 91   loss - 0.16472019255161285
+epoch 0  sample - 92   loss - 0.18573684990406036
+epoch 0  sample - 93   loss - 0.20078501105308533
+epoch 0  sample - 94   loss - 0.13367675244808197
+accumulated loss after 8 samples - 1.5388659238815308
+
+epoch 0  sample - 95   loss - 0.20799408853054047
+epoch 0  sample - 96   loss - 0.1728287935256958
+epoch 0  sample - 97   loss - 0.3409394919872284
+epoch 0  sample - 98   loss - 0.24917475879192352
+epoch 0  sample - 99   loss - 0.1490805745124817
+epoch 0  sample - 100   loss - 0.1813870668411255
+epoch 0  sample - 101   loss - 0.18036560714244843
+epoch 0  sample - 102   loss - 0.20482684671878815
+accumulated loss after 8 samples - 1.635970950126648
+
+epoch 0  sample - 103   loss - 0.1573677957057953
+epoch 0  sample - 104   loss - 0.32187050580978394
+epoch 0  sample - 105   loss - 0.22396165132522583
+epoch 0  sample - 106   loss - 0.1040717214345932
+epoch 0  sample - 107   loss - 0.19005829095840454
+epoch 0  sample - 108   loss - 0.1904279887676239
+epoch 0  sample - 109   loss - 0.12922219932079315
+epoch 0  sample - 110   loss - 0.511201024055481
+accumulated loss after 8 samples - 1.8697700500488281
+
+epoch 0  sample - 111   loss - 0.1989566832780838
+epoch 0  sample - 112   loss - 1.0363503694534302
+epoch 0  sample - 113   loss - 0.11741740256547928
+epoch 0  sample - 114   loss - 0.5204457640647888
+epoch 0  sample - 115   loss - 0.34278619289398193
+epoch 0  sample - 116   loss - 0.25250282883644104
+epoch 0  sample - 117   loss - 0.3364570438861847
+epoch 0  sample - 118   loss - 0.2798929214477539
+accumulated loss after 8 samples - 3.0641088485717773
+
+epoch 0  sample - 119   loss - 0.17825622856616974
+epoch 0  sample - 120   loss - 0.11938513070344925
+epoch 0  sample - 121   loss - 0.15441779792308807
+epoch 0  sample - 122   loss - 0.09157983213663101
+epoch 0  sample - 123   loss - 0.14158758521080017
+epoch 0  sample - 124   loss - 0.2169540822505951
+epoch 0  sample - 125   loss - 0.16533519327640533
+epoch 0  sample - 126   loss - 0.14699342846870422
+accumulated loss after 8 samples - 1.4699026346206665
+
+epoch 0  sample - 127   loss - 0.4336496889591217
+epoch 0  sample - 128   loss - 0.32376763224601746
+epoch 0  sample - 129   loss - 0.2503594756126404
+epoch 0  sample - 130   loss - 0.2167312651872635
+epoch 0  sample - 131   loss - 0.8172132968902588
+epoch 0  sample - 132   loss - 0.3488036096096039
+epoch 0  sample - 133   loss - 0.2076682299375534
+epoch 0  sample - 134   loss - 0.1669244021177292
+accumulated loss after 8 samples - 2.7412285804748535
+
+epoch 0  sample - 135   loss - 0.4097606837749481
+epoch 0  sample - 136   loss - 0.20582368969917297
+epoch 0  sample - 137   loss - 0.21571017801761627
+epoch 0  sample - 138   loss - 0.149736225605011
+epoch 0  sample - 139   loss - 0.12569837272167206
+epoch 0  sample - 140   loss - 0.21665188670158386
+epoch 0  sample - 141   loss - 0.16163893043994904
+epoch 0  sample - 142   loss - 0.12527061998844147
+accumulated loss after 8 samples - 1.3749369382858276
+
+epoch 0  sample - 143   loss - 0.1744070202112198
+epoch 0  sample - 144   loss - 0.25744736194610596
+epoch 0  sample - 145   loss - 0.22943216562271118
+epoch 0  sample - 146   loss - 0.30941328406333923
+epoch 0  sample - 147   loss - 0.18276451528072357
+epoch 0  sample - 148   loss - 0.20560573041439056
+epoch 0  sample - 149   loss - 0.19753281772136688
+epoch 0  sample - 150   loss - 0.538651704788208
+accumulated loss after 8 samples - 2.0992259979248047
+
+epoch 0  sample - 151   loss - 0.1783783733844757
+epoch 0  sample - 152   loss - 0.24203424155712128
+epoch 0  sample - 153   loss - 0.2712253928184509
+epoch 0  sample - 154   loss - 0.13447901606559753
+epoch 0  sample - 155   loss - 0.1867285668849945
+epoch 0  sample - 156   loss - 0.27975571155548096
+epoch 0  sample - 157   loss - 0.24987030029296875
+epoch 0  sample - 158   loss - 0.40732628107070923
+accumulated loss after 8 samples - 1.9405555725097656
+
+epoch 0  sample - 159   loss - 0.16913609206676483
+epoch 0  sample - 160   loss - 0.15163584053516388
+epoch 0  sample - 161   loss - 0.19062142074108124
+epoch 0  sample - 162   loss - 0.11314615607261658
+epoch 0  sample - 163   loss - 0.3259555697441101
+epoch 0  sample - 164   loss - 0.1717657595872879
+epoch 0  sample - 165   loss - 0.2244226336479187
+epoch 0  sample - 166   loss - 0.17743094265460968
+accumulated loss after 8 samples - 1.5192835330963135
+
+epoch 0  sample - 167   loss - 0.16430526971817017
+epoch 0  sample - 168   loss - 0.2156715840101242
+epoch 0  sample - 169   loss - 0.11680950224399567
+epoch 0  sample - 170   loss - 0.5577540993690491
+epoch 0  sample - 171   loss - 0.1787634789943695
+epoch 0  sample - 172   loss - 0.13800105452537537
+epoch 0  sample - 173   loss - 0.23955149948596954
+epoch 0  sample - 174   loss - 0.15109676122665405
+accumulated loss after 8 samples - 1.8684215545654297
+
+epoch 0  sample - 175   loss - 0.2707734704017639
+epoch 0  sample - 176   loss - 0.48268693685531616
+epoch 0  sample - 177   loss - 0.10378638654947281
+epoch 0  sample - 178   loss - 0.21692079305648804
+epoch 0  sample - 179   loss - 0.11766167730093002
+epoch 0  sample - 180   loss - 0.1858597695827484
+epoch 0  sample - 181   loss - 0.2980479598045349
+epoch 0  sample - 182   loss - 0.30453354120254517
+accumulated loss after 8 samples - 1.8780267238616943
+
+epoch 0  sample - 183   loss - 0.16852979362010956
+epoch 0  sample - 184   loss - 0.1305685192346573
+epoch 0  sample - 185   loss - 0.2006683349609375
+epoch 0  sample - 186   loss - 0.1896308809518814
+epoch 0  sample - 187   loss - 0.1361234337091446
+epoch 0  sample - 188   loss - 0.14913514256477356
+epoch 0  sample - 189   loss - 0.15044541656970978
+epoch 0  sample - 190   loss - 0.17122499644756317
+accumulated loss after 8 samples - 1.3102807998657227
+
+epoch 0  sample - 191   loss - 0.18248409032821655
+epoch 0  sample - 192   loss - 0.12653256952762604
+epoch 0  sample - 193   loss - 0.0988064780831337
+epoch 0  sample - 194   loss - 0.22394607961177826
+epoch 0  sample - 195   loss - 0.4065329134464264
+epoch 0  sample - 196   loss - 0.23723305761814117
+epoch 0  sample - 197   loss - 0.19340141117572784
+epoch 0  sample - 198   loss - 0.2021729052066803
+accumulated loss after 8 samples - 1.664413332939148
+
+epoch 0  sample - 199   loss - 0.17578795552253723
+epoch 1  sample - 0   loss - 0.12293139845132828
+epoch 1  sample - 1   loss - 0.1999504119157791
+epoch 1  sample - 2   loss - 0.12770645320415497
+epoch 1  sample - 3   loss - 0.10021259635686874
+epoch 1  sample - 4   loss - 0.10103876888751984
+epoch 1  sample - 5   loss - 0.16909179091453552
+epoch 1  sample - 6   loss - 0.15233153104782104
+accumulated loss after 8 samples - 1.076302409172058
+
+epoch 1  sample - 7   loss - 0.10303943604230881
+epoch 1  sample - 8   loss - 0.06496992707252502
+epoch 1  sample - 9   loss - 0.3078007698059082
+epoch 1  sample - 10   loss - 0.1884850412607193
+epoch 1  sample - 11   loss - 0.1912122219800949
+epoch 1  sample - 12   loss - 0.14851011335849762
+epoch 1  sample - 13   loss - 0.20122477412223816
+epoch 1  sample - 14   loss - 0.26791325211524963
+accumulated loss after 8 samples - 1.5535156726837158
+
+epoch 1  sample - 15   loss - 0.18339957296848297
+epoch 1  sample - 16   loss - 0.17753346264362335
+epoch 1  sample - 17   loss - 0.17008571326732635
+epoch 1  sample - 18   loss - 0.09985377639532089
+epoch 1  sample - 19   loss - 0.20823177695274353
+epoch 1  sample - 20   loss - 0.18544122576713562
+epoch 1  sample - 21   loss - 0.17431892454624176
+epoch 1  sample - 22   loss - 0.3703293800354004
+accumulated loss after 8 samples - 1.5307917594909668
+
+epoch 1  sample - 23   loss - 0.14499753713607788
+epoch 1  sample - 24   loss - 0.2678009867668152
+epoch 1  sample - 25   loss - 0.15196922421455383
+epoch 1  sample - 26   loss - 0.11028905212879181
+epoch 1  sample - 27   loss - 0.18704679608345032
+epoch 1  sample - 28   loss - 0.5138927102088928
+epoch 1  sample - 29   loss - 0.20897488296031952
+epoch 1  sample - 30   loss - 0.8785859942436218
+accumulated loss after 8 samples - 2.551863670349121
+
+epoch 1  sample - 31   loss - 0.23330402374267578
+epoch 1  sample - 32   loss - 0.18124175071716309
+epoch 1  sample - 33   loss - 0.18064765632152557
+epoch 1  sample - 34   loss - 0.34279778599739075
+epoch 1  sample - 35   loss - 0.1668296754360199
+epoch 1  sample - 36   loss - 0.29102328419685364
+epoch 1  sample - 37   loss - 0.13895101845264435
+epoch 1  sample - 38   loss - 0.121750108897686
+accumulated loss after 8 samples - 1.5726145505905151
+
+epoch 1  sample - 39   loss - 0.1493731439113617
+epoch 1  sample - 40   loss - 0.10937444120645523
+epoch 1  sample - 41   loss - 0.13497431576251984
+epoch 1  sample - 42   loss - 0.12430892884731293
+epoch 1  sample - 43   loss - 0.1112336814403534
+epoch 1  sample - 44   loss - 0.5667404532432556
+epoch 1  sample - 45   loss - 0.2836213707923889
+epoch 1  sample - 46   loss - 0.3630271852016449
+accumulated loss after 8 samples - 1.8951970338821411
+
+epoch 1  sample - 47   loss - 0.20191669464111328
+epoch 1  sample - 48   loss - 0.307952344417572
+epoch 1  sample - 49   loss - 0.18474999070167542
+epoch 1  sample - 50   loss - 0.2105448693037033
+epoch 1  sample - 51   loss - 0.22652900218963623
+epoch 1  sample - 52   loss - 0.29499518871307373
+epoch 1  sample - 53   loss - 0.3830011487007141
+epoch 1  sample - 54   loss - 0.14286385476589203
+accumulated loss after 8 samples - 1.9927029609680176
+
+epoch 1  sample - 55   loss - 0.24206651747226715
+epoch 1  sample - 56   loss - 0.2120041400194168
+epoch 1  sample - 57   loss - 0.09720021486282349
+epoch 1  sample - 58   loss - 0.10157210379838943
+epoch 1  sample - 59   loss - 0.10038019716739655
+epoch 1  sample - 60   loss - 0.1361536681652069
+epoch 1  sample - 61   loss - 0.1510169804096222
+epoch 1  sample - 62   loss - 0.1449742466211319
+accumulated loss after 8 samples - 1.046015739440918
+
+epoch 1  sample - 63   loss - 0.10271432995796204
+epoch 1  sample - 64   loss - 0.27102747559547424
+epoch 1  sample - 65   loss - 0.2155868411064148
+epoch 1  sample - 66   loss - 0.11979721486568451
+epoch 1  sample - 67   loss - 0.1305358111858368
+epoch 1  sample - 68   loss - 0.14630120992660522
+epoch 1  sample - 69   loss - 0.1467057317495346
+epoch 1  sample - 70   loss - 0.20043620467185974
+accumulated loss after 8 samples - 1.3606269359588623
+
+epoch 1  sample - 71   loss - 0.1302364617586136
+epoch 1  sample - 72   loss - 0.10089003294706345
+epoch 1  sample - 73   loss - 0.13229535520076752
+epoch 1  sample - 74   loss - 0.17241638898849487
+epoch 1  sample - 75   loss - 0.17320075631141663
+epoch 1  sample - 76   loss - 0.2953205406665802
+epoch 1  sample - 77   loss - 0.13622234761714935
+epoch 1  sample - 78   loss - 0.13289588689804077
+accumulated loss after 8 samples - 1.3294587135314941
+
+epoch 1  sample - 79   loss - 0.1862173080444336
+epoch 1  sample - 80   loss - 0.2582150101661682
+epoch 1  sample - 81   loss - 0.28918910026550293
+epoch 1  sample - 82   loss - 0.0799313560128212
+epoch 1  sample - 83   loss - 0.1630064845085144
+epoch 1  sample - 84   loss - 0.19545194506645203
+epoch 1  sample - 85   loss - 0.19391383230686188
+epoch 1  sample - 86   loss - 0.19245114922523499
+accumulated loss after 8 samples - 1.5894674062728882
+
+epoch 1  sample - 87   loss - 0.21730847656726837
+epoch 1  sample - 88   loss - 0.24280618131160736
+epoch 1  sample - 89   loss - 0.22731076180934906
+epoch 1  sample - 90   loss - 0.19922518730163574
+epoch 1  sample - 91   loss - 0.24067874252796173
+epoch 1  sample - 92   loss - 0.18032044172286987
+epoch 1  sample - 93   loss - 0.28147992491722107
+epoch 1  sample - 94   loss - 0.22017307579517365
+accumulated loss after 8 samples - 1.7133152484893799
+
+epoch 1  sample - 95   loss - 0.12132078409194946
+epoch 1  sample - 96   loss - 0.12503798305988312
+epoch 1  sample - 97   loss - 0.17087110877037048
+epoch 1  sample - 98   loss - 0.1977916806936264
+epoch 1  sample - 99   loss - 0.17567718029022217
+epoch 1  sample - 100   loss - 0.23562046885490417
+epoch 1  sample - 101   loss - 0.15792183578014374
+epoch 1  sample - 102   loss - 0.18002036213874817
+accumulated loss after 8 samples - 1.4245344400405884
+
+epoch 1  sample - 103   loss - 0.1815939098596573
+epoch 1  sample - 104   loss - 0.18345941603183746
+epoch 1  sample - 105   loss - 0.21990443766117096
+epoch 1  sample - 106   loss - 0.39324554800987244
+epoch 1  sample - 107   loss - 0.16029484570026398
+epoch 1  sample - 108   loss - 0.1702076494693756
+epoch 1  sample - 109   loss - 0.1286078840494156
+epoch 1  sample - 110   loss - 0.099634550511837
+accumulated loss after 8 samples - 1.4561793804168701
+
+epoch 1  sample - 111   loss - 0.10082504153251648
+epoch 1  sample - 112   loss - 0.1805090606212616
+epoch 1  sample - 113   loss - 0.1477850377559662
+epoch 1  sample - 114   loss - 0.1818736493587494
+epoch 1  sample - 115   loss - 0.599581241607666
+epoch 1  sample - 116   loss - 0.17676591873168945
+epoch 1  sample - 117   loss - 0.17589162290096283
+epoch 1  sample - 118   loss - 0.4559668302536011
+accumulated loss after 8 samples - 2.254059076309204
+
+epoch 1  sample - 119   loss - 0.33568575978279114
+epoch 1  sample - 120   loss - 0.124737448990345
+epoch 1  sample - 121   loss - 0.12143103778362274
+epoch 1  sample - 122   loss - 0.2243722677230835
+epoch 1  sample - 123   loss - 0.8045055866241455
+epoch 1  sample - 124   loss - 0.17722445726394653
+epoch 1  sample - 125   loss - 0.1607736200094223
+epoch 1  sample - 126   loss - 0.4476146697998047
+accumulated loss after 8 samples - 2.2591910362243652
+
+epoch 1  sample - 127   loss - 0.19853204488754272
+epoch 1  sample - 128   loss - 0.21810519695281982
+epoch 1  sample - 129   loss - 0.26132240891456604
+epoch 1  sample - 130   loss - 0.10347342491149902
+epoch 1  sample - 131   loss - 0.07883287221193314
+epoch 1  sample - 132   loss - 0.17676323652267456
+epoch 1  sample - 133   loss - 0.1467020958662033
+epoch 1  sample - 134   loss - 0.251006543636322
+accumulated loss after 8 samples - 1.5304486751556396
+
+epoch 1  sample - 135   loss - 0.294242799282074
+epoch 1  sample - 136   loss - 0.17935878038406372
+epoch 1  sample - 137   loss - 0.1667572259902954
+epoch 1  sample - 138   loss - 0.2750459313392639
+epoch 1  sample - 139   loss - 0.2030063420534134
+epoch 1  sample - 140   loss - 0.28784582018852234
+epoch 1  sample - 141   loss - 0.1933697611093521
+epoch 1  sample - 142   loss - 0.1211012527346611
+accumulated loss after 8 samples - 1.5686492919921875
+
+epoch 1  sample - 143   loss - 0.14216426014900208
+epoch 1  sample - 144   loss - 0.14976899325847626
+epoch 1  sample - 145   loss - 0.20902223885059357
+epoch 1  sample - 146   loss - 0.25937795639038086
+epoch 1  sample - 147   loss - 0.18818125128746033
+epoch 1  sample - 148   loss - 0.22159932553768158
+epoch 1  sample - 149   loss - 0.10667400062084198
+epoch 1  sample - 150   loss - 0.1800578236579895
+accumulated loss after 8 samples - 1.4473845958709717
+
+epoch 1  sample - 151   loss - 0.13270312547683716
+epoch 1  sample - 152   loss - 0.18323084712028503
+epoch 1  sample - 153   loss - 0.8182277679443359
+epoch 1  sample - 154   loss - 0.1686982959508896
+epoch 1  sample - 155   loss - 0.12360994517803192
+epoch 1  sample - 156   loss - 0.30815958976745605
+epoch 1  sample - 157   loss - 0.14679202437400818
+epoch 1  sample - 158   loss - 0.18670408427715302
+accumulated loss after 8 samples - 2.0680460929870605
+
+epoch 1  sample - 159   loss - 0.13262347877025604
+epoch 1  sample - 160   loss - 0.1940026879310608
+epoch 1  sample - 161   loss - 0.11635976284742355
+epoch 1  sample - 162   loss - 0.12611383199691772
+epoch 1  sample - 163   loss - 0.2564907371997833
+epoch 1  sample - 164   loss - 0.18303754925727844
+epoch 1  sample - 165   loss - 0.18957434594631195
+epoch 1  sample - 166   loss - 0.2903510332107544
+accumulated loss after 8 samples - 1.5375365018844604
+
+epoch 1  sample - 167   loss - 0.18160654604434967
+epoch 1  sample - 168   loss - 0.19484315812587738
+epoch 1  sample - 169   loss - 0.10459349304437637
+epoch 1  sample - 170   loss - 0.19573509693145752
+epoch 1  sample - 171   loss - 0.2750717103481293
+epoch 1  sample - 172   loss - 0.16749748587608337
+epoch 1  sample - 173   loss - 0.17492319643497467
+epoch 1  sample - 174   loss - 0.14927904307842255
+accumulated loss after 8 samples - 1.3852026462554932
+
+epoch 1  sample - 175   loss - 0.12325959652662277
+epoch 1  sample - 176   loss - 0.14501497149467468
+epoch 1  sample - 177   loss - 0.239570751786232
+epoch 1  sample - 178   loss - 0.16029998660087585
+epoch 1  sample - 179   loss - 0.11214998364448547
+epoch 1  sample - 180   loss - 0.08085662871599197
+epoch 1  sample - 181   loss - 0.20845241844654083
+epoch 1  sample - 182   loss - 0.21241532266139984
+accumulated loss after 8 samples - 1.2435587644577026
+
+epoch 1  sample - 183   loss - 0.08479868620634079
+epoch 1  sample - 184   loss - 0.14431674778461456
+epoch 1  sample - 185   loss - 0.25695234537124634
+epoch 1  sample - 186   loss - 0.08291223645210266
+epoch 1  sample - 187   loss - 0.19005592167377472
+epoch 1  sample - 188   loss - 0.14405815303325653
+epoch 1  sample - 189   loss - 0.35002806782722473
+epoch 1  sample - 190   loss - 0.19276075065135956
+accumulated loss after 8 samples - 1.6072776317596436
+
+epoch 1  sample - 191   loss - 0.24619340896606445
+epoch 1  sample - 192   loss - 0.33667728304862976
+epoch 1  sample - 193   loss - 0.15514330565929413
+epoch 1  sample - 194   loss - 0.304713636636734
+epoch 1  sample - 195   loss - 0.1980571746826172
+epoch 1  sample - 196   loss - 0.11185716092586517
+epoch 1  sample - 197   loss - 0.172350212931633
+epoch 1  sample - 198   loss - 0.14297325909137726
+accumulated loss after 8 samples - 1.9465301036834717
+
+epoch 1  sample - 199   loss - 0.5247580409049988
+epoch 2  sample - 0   loss - 0.16045162081718445
+epoch 2  sample - 1   loss - 0.08820847421884537
+epoch 2  sample - 2   loss - 0.17198890447616577
+epoch 2  sample - 3   loss - 0.13992621004581451
+epoch 2  sample - 4   loss - 0.2921789884567261
+epoch 2  sample - 5   loss - 0.24081015586853027
+epoch 2  sample - 6   loss - 0.38463327288627625
+accumulated loss after 8 samples - 1.6212760210037231
+
+epoch 2  sample - 7   loss - 0.14307841658592224
+epoch 2  sample - 8   loss - 0.20569612085819244
+epoch 2  sample - 9   loss - 0.21829035878181458
+epoch 2  sample - 10   loss - 0.08699070662260056
+epoch 2  sample - 11   loss - 0.1770155280828476
+epoch 2  sample - 12   loss - 0.13350191712379456
+epoch 2  sample - 13   loss - 0.21659763157367706
+epoch 2  sample - 14   loss - 0.2426747977733612
+accumulated loss after 8 samples - 1.4806803464889526
+
+epoch 2  sample - 15   loss - 0.1999131590127945
+epoch 2  sample - 16   loss - 0.19772328436374664
+epoch 2  sample - 17   loss - 0.06368091702461243
+epoch 2  sample - 18   loss - 0.24575252830982208
+epoch 2  sample - 19   loss - 0.10049289464950562
+epoch 2  sample - 20   loss - 0.2051066905260086
+epoch 2  sample - 21   loss - 0.19723853468894958
+epoch 2  sample - 22   loss - 0.17576567828655243
+accumulated loss after 8 samples - 1.3493249416351318
+
+epoch 2  sample - 23   loss - 0.16356448829174042
+epoch 2  sample - 24   loss - 0.15462853014469147
+epoch 2  sample - 25   loss - 0.15940210223197937
+epoch 2  sample - 26   loss - 0.12115387618541718
+epoch 2  sample - 27   loss - 0.13811442255973816
+epoch 2  sample - 28   loss - 0.12718790769577026
+epoch 2  sample - 29   loss - 0.07277172803878784
+epoch 2  sample - 30   loss - 0.23291608691215515
+accumulated loss after 8 samples - 1.2003531455993652
+
+epoch 2  sample - 31   loss - 0.1941784769296646
+epoch 2  sample - 32   loss - 0.13817234337329865
+epoch 2  sample - 33   loss - 0.06955872476100922
+epoch 2  sample - 34   loss - 0.14294791221618652
+epoch 2  sample - 35   loss - 0.10242534428834915
+epoch 2  sample - 36   loss - 0.13865973055362701
+epoch 2  sample - 37   loss - 0.3259384334087372
+epoch 2  sample - 38   loss - 0.2647254467010498
+accumulated loss after 8 samples - 1.3507208824157715
+
+epoch 2  sample - 39   loss - 0.16829299926757812
+epoch 2  sample - 40   loss - 0.6039093136787415
+epoch 2  sample - 41   loss - 0.09037019312381744
+epoch 2  sample - 42   loss - 0.17961469292640686
+epoch 2  sample - 43   loss - 0.19527941942214966
+epoch 2  sample - 44   loss - 0.23405961692333221
+epoch 2  sample - 45   loss - 0.09349650144577026
+epoch 2  sample - 46   loss - 0.17119839787483215
+accumulated loss after 8 samples - 1.7539488077163696
+
+epoch 2  sample - 47   loss - 0.18602071702480316
+epoch 2  sample - 48   loss - 0.1762908548116684
+epoch 2  sample - 49   loss - 0.16634416580200195
+epoch 2  sample - 50   loss - 0.14604444801807404
+epoch 2  sample - 51   loss - 0.11817232519388199
+epoch 2  sample - 52   loss - 0.19063636660575867
+epoch 2  sample - 53   loss - 0.2518347501754761
+epoch 2  sample - 54   loss - 0.10704650729894638
+accumulated loss after 8 samples - 1.3615514039993286
+
+epoch 2  sample - 55   loss - 0.20518194139003754
+epoch 2  sample - 56   loss - 0.21264004707336426
+epoch 2  sample - 57   loss - 0.3726683259010315
+epoch 2  sample - 58   loss - 0.06840121001005173
+epoch 2  sample - 59   loss - 0.06782756000757217
+epoch 2  sample - 60   loss - 0.49614110589027405
+epoch 2  sample - 61   loss - 0.12649951875209808
+epoch 2  sample - 62   loss - 0.18818636238574982
+accumulated loss after 8 samples - 1.733414649963379
+
+epoch 2  sample - 63   loss - 0.20105034112930298
+epoch 2  sample - 64   loss - 0.06425515562295914
+epoch 2  sample - 65   loss - 0.11605826020240784
+epoch 2  sample - 66   loss - 0.056879978626966476
+epoch 2  sample - 67   loss - 0.1371052861213684
+epoch 2  sample - 68   loss - 0.1759481281042099
+epoch 2  sample - 69   loss - 0.13898815214633942
+epoch 2  sample - 70   loss - 0.1835050731897354
+accumulated loss after 8 samples - 1.027590274810791
+
+epoch 2  sample - 71   loss - 0.1548503041267395
+epoch 2  sample - 72   loss - 0.1953781694173813
+epoch 2  sample - 73   loss - 0.12451279908418655
+epoch 2  sample - 74   loss - 0.1440458744764328
+epoch 2  sample - 75   loss - 0.13685201108455658
+epoch 2  sample - 76   loss - 0.17437930405139923
+epoch 2  sample - 77   loss - 0.07877755910158157
+epoch 2  sample - 78   loss - 0.16588816046714783
+accumulated loss after 8 samples - 1.183334231376648
+
+epoch 2  sample - 79   loss - 0.16350029408931732
+epoch 2  sample - 80   loss - 0.09249299764633179
+epoch 2  sample - 81   loss - 0.2044755220413208
+epoch 2  sample - 82   loss - 0.11818280071020126
+epoch 2  sample - 83   loss - 0.4446370303630829
+epoch 2  sample - 84   loss - 0.0776728093624115
+epoch 2  sample - 85   loss - 0.39068472385406494
+epoch 2  sample - 86   loss - 0.13998110592365265
+accumulated loss after 8 samples - 1.7665200233459473
+
+epoch 2  sample - 87   loss - 0.2983930706977844
+epoch 2  sample - 88   loss - 0.18203705549240112
+epoch 2  sample - 89   loss - 0.10073688626289368
+epoch 2  sample - 90   loss - 0.10720832645893097
+epoch 2  sample - 91   loss - 0.1692817509174347
+epoch 2  sample - 92   loss - 0.26394879817962646
+epoch 2  sample - 93   loss - 0.20382378995418549
+epoch 2  sample - 94   loss - 0.09281034022569656
+accumulated loss after 8 samples - 1.2585562467575073
+
+epoch 2  sample - 95   loss - 0.1387091428041458
+epoch 2  sample - 96   loss - 0.1455777883529663
+epoch 2  sample - 97   loss - 0.11101140826940536
+epoch 2  sample - 98   loss - 0.2921982705593109
+epoch 2  sample - 99   loss - 0.268826425075531
+epoch 2  sample - 100   loss - 0.10836675763130188
+epoch 2  sample - 101   loss - 0.24149926006793976
+epoch 2  sample - 102   loss - 0.23672308027744293
+accumulated loss after 8 samples - 1.4599443674087524
+
+epoch 2  sample - 103   loss - 0.055741287767887115
+epoch 2  sample - 104   loss - 0.1892894059419632
+epoch 2  sample - 105   loss - 0.09942911565303802
+epoch 2  sample - 106   loss - 0.06857223808765411
+epoch 2  sample - 107   loss - 0.2406024932861328
+epoch 2  sample - 108   loss - 0.20732389390468597
+epoch 2  sample - 109   loss - 0.15879768133163452
+epoch 2  sample - 110   loss - 0.16335321962833405
+accumulated loss after 8 samples - 1.221491813659668
+
+epoch 2  sample - 111   loss - 0.0941237360239029
+epoch 2  sample - 112   loss - 0.17953306436538696
+epoch 2  sample - 113   loss - 0.1633368581533432
+epoch 2  sample - 114   loss - 0.17338500916957855
+epoch 2  sample - 115   loss - 0.15960489213466644
+epoch 2  sample - 116   loss - 0.05978965386748314
+epoch 2  sample - 117   loss - 0.36503565311431885
+epoch 2  sample - 118   loss - 0.1916041523218155
+accumulated loss after 8 samples - 1.4530885219573975
+
+epoch 2  sample - 119   loss - 0.16079922020435333
+epoch 2  sample - 120   loss - 0.1760900467634201
+epoch 2  sample - 121   loss - 0.16501234471797943
+epoch 2  sample - 122   loss - 0.05214575305581093
+epoch 2  sample - 123   loss - 0.25527817010879517
+epoch 2  sample - 124   loss - 0.08332531899213791
+epoch 2  sample - 125   loss - 0.13260820508003235
+epoch 2  sample - 126   loss - 0.22064842283725739
+accumulated loss after 8 samples - 1.2066197395324707
+
+epoch 2  sample - 127   loss - 0.12151140719652176
+epoch 2  sample - 128   loss - 0.1580197811126709
+epoch 2  sample - 129   loss - 0.13621725142002106
+epoch 2  sample - 130   loss - 0.05937345698475838
+epoch 2  sample - 131   loss - 0.16487674415111542
+epoch 2  sample - 132   loss - 0.2573948800563812
+epoch 2  sample - 133   loss - 0.2199764996767044
+epoch 2  sample - 134   loss - 0.14585362374782562
+accumulated loss after 8 samples - 1.3094584941864014
+
+epoch 2  sample - 135   loss - 0.16774635016918182
+epoch 2  sample - 136   loss - 0.182710662484169
+epoch 2  sample - 137   loss - 0.0937705710530281
+epoch 2  sample - 138   loss - 0.1603935956954956
+epoch 2  sample - 139   loss - 0.20776742696762085
+epoch 2  sample - 140   loss - 0.09086001664400101
+epoch 2  sample - 141   loss - 0.13950733840465546
+epoch 2  sample - 142   loss - 0.14517943561077118
+accumulated loss after 8 samples - 1.2050411701202393
+
+epoch 2  sample - 143   loss - 0.18485209345817566
+epoch 2  sample - 144   loss - 0.3111785054206848
+epoch 2  sample - 145   loss - 0.11498173326253891
+epoch 2  sample - 146   loss - 0.1789764016866684
+epoch 2  sample - 147   loss - 0.11126639693975449
+epoch 2  sample - 148   loss - 0.17880235612392426
+epoch 2  sample - 149   loss - 0.08081735670566559
+epoch 2  sample - 150   loss - 0.12541192770004272
+accumulated loss after 8 samples - 1.2688220739364624
+
+epoch 2  sample - 151   loss - 0.16738735139369965
+epoch 2  sample - 152   loss - 0.16041819751262665
+epoch 2  sample - 153   loss - 0.09780604392290115
+epoch 2  sample - 154   loss - 0.14300091564655304
+epoch 2  sample - 155   loss - 0.11055383086204529
+epoch 2  sample - 156   loss - 0.13683156669139862
+epoch 2  sample - 157   loss - 0.17272819578647614
+epoch 2  sample - 158   loss - 0.16680213809013367
+accumulated loss after 8 samples - 1.2141070365905762
+
+epoch 2  sample - 159   loss - 0.2259661853313446
+epoch 2  sample - 160   loss - 0.16707749664783478
+epoch 2  sample - 161   loss - 0.23329858481884003
+epoch 2  sample - 162   loss - 0.16260482370853424
+epoch 2  sample - 163   loss - 0.21048960089683533
+epoch 2  sample - 164   loss - 0.047415751963853836
+epoch 2  sample - 165   loss - 0.07031632959842682
+epoch 2  sample - 166   loss - 0.11693976074457169
+accumulated loss after 8 samples - 1.1572836637496948
+
+epoch 2  sample - 167   loss - 0.149141326546669
+epoch 2  sample - 168   loss - 0.16298165917396545
+epoch 2  sample - 169   loss - 0.056431639939546585
+epoch 2  sample - 170   loss - 0.14632263779640198
+epoch 2  sample - 171   loss - 0.041026849299669266
+epoch 2  sample - 172   loss - 0.1460462212562561
+epoch 2  sample - 173   loss - 0.21241681277751923
+epoch 2  sample - 174   loss - 0.15360690653324127
+accumulated loss after 8 samples - 1.0652371644973755
+
+epoch 2  sample - 175   loss - 0.146404430270195
+epoch 2  sample - 176   loss - 0.08168401569128036
+epoch 2  sample - 177   loss - 0.09771288931369781
+epoch 2  sample - 178   loss - 0.11386880278587341
+epoch 2  sample - 179   loss - 0.10915711522102356
+epoch 2  sample - 180   loss - 0.13692018389701843
+epoch 2  sample - 181   loss - 0.16435594856739044
+epoch 2  sample - 182   loss - 0.10488291084766388
+accumulated loss after 8 samples - 1.059428334236145
+
+epoch 2  sample - 183   loss - 0.2508465051651001
+epoch 2  sample - 184   loss - 0.2071271538734436
+epoch 2  sample - 185   loss - 0.2574613094329834
+epoch 2  sample - 186   loss - 0.11151135712862015
+epoch 2  sample - 187   loss - 0.08709855377674103
+epoch 2  sample - 188   loss - 0.1224067285656929
+epoch 2  sample - 189   loss - 0.11541742086410522
+epoch 2  sample - 190   loss - 0.25106844305992126
+accumulated loss after 8 samples - 1.270552635192871
+
+epoch 2  sample - 191   loss - 0.1184617280960083
+epoch 2  sample - 192   loss - 0.16710872948169708
+epoch 2  sample - 193   loss - 0.18096686899662018
+epoch 2  sample - 194   loss - 0.17629237473011017
+epoch 2  sample - 195   loss - 0.12089721113443375
+epoch 2  sample - 196   loss - 0.050563812255859375
+epoch 2  sample - 197   loss - 0.11223598569631577
+epoch 2  sample - 198   loss - 0.07858722656965256
+accumulated loss after 8 samples - 0.9951830506324768
+
+epoch 2  sample - 199   loss - 0.10853082686662674
+epoch 3  sample - 0   loss - 0.027200786396861076
+epoch 3  sample - 1   loss - 0.13511386513710022
+epoch 3  sample - 2   loss - 0.14424674212932587
+epoch 3  sample - 3   loss - 0.1354868859052658
+epoch 3  sample - 4   loss - 0.1969568133354187
+epoch 3  sample - 5   loss - 0.22959621250629425
+epoch 3  sample - 6   loss - 0.09440866857767105
+accumulated loss after 8 samples - 1.077782154083252
+
+epoch 3  sample - 7   loss - 0.11477210372686386
+epoch 3  sample - 8   loss - 0.10925955325365067
+epoch 3  sample - 9   loss - 0.1776409149169922
+epoch 3  sample - 10   loss - 0.12089989334344864
+epoch 3  sample - 11   loss - 0.2243388295173645
+epoch 3  sample - 12   loss - 0.15367518365383148
+epoch 3  sample - 13   loss - 0.08812393993139267
+epoch 3  sample - 14   loss - 0.12942074239253998
+accumulated loss after 8 samples - 1.1680424213409424
+
+epoch 3  sample - 15   loss - 0.16468331217765808
+epoch 3  sample - 16   loss - 0.07821188122034073
+epoch 3  sample - 17   loss - 0.15593844652175903
+epoch 3  sample - 18   loss - 0.031007638201117516
+epoch 3  sample - 19   loss - 0.04203735291957855
+epoch 3  sample - 20   loss - 0.23175612092018127
+epoch 3  sample - 21   loss - 0.16074560582637787
+epoch 3  sample - 22   loss - 0.1153353825211525
+accumulated loss after 8 samples - 0.9610733985900879
+
+epoch 3  sample - 23   loss - 0.14604100584983826
+epoch 3  sample - 24   loss - 0.2057986855506897
+epoch 3  sample - 25   loss - 0.22662818431854248
+epoch 3  sample - 26   loss - 0.09837739169597626
+epoch 3  sample - 27   loss - 0.10443621873855591
+epoch 3  sample - 28   loss - 0.16154557466506958
+epoch 3  sample - 29   loss - 0.15386494994163513
+epoch 3  sample - 30   loss - 0.14600802958011627
+accumulated loss after 8 samples - 1.2646740674972534
+
+epoch 3  sample - 31   loss - 0.1680149883031845
+epoch 3  sample - 32   loss - 0.36143794655799866
+epoch 3  sample - 33   loss - 0.16768014430999756
+epoch 3  sample - 34   loss - 0.18421055376529694
+epoch 3  sample - 35   loss - 0.28608253598213196
+epoch 3  sample - 36   loss - 0.11021660268306732
+epoch 3  sample - 37   loss - 0.1412285417318344
+epoch 3  sample - 38   loss - 0.13985371589660645
+accumulated loss after 8 samples - 1.6266953945159912
+
+epoch 3  sample - 39   loss - 0.23598536849021912
+epoch 3  sample - 40   loss - 0.11285199970006943
+epoch 3  sample - 41   loss - 0.14767374098300934
+epoch 3  sample - 42   loss - 0.10674576461315155
+epoch 3  sample - 43   loss - 0.10862696915864944
+epoch 3  sample - 44   loss - 0.14619526267051697
+epoch 3  sample - 45   loss - 0.15226086974143982
+epoch 3  sample - 46   loss - 0.02805212512612343
+accumulated loss after 8 samples - 0.9699705839157104
+
+epoch 3  sample - 47   loss - 0.16756387054920197
+epoch 3  sample - 48   loss - 0.07267681509256363
+epoch 3  sample - 49   loss - 0.12759217619895935
+epoch 3  sample - 50   loss - 0.17349962890148163
+epoch 3  sample - 51   loss - 0.1196705549955368
+epoch 3  sample - 52   loss - 0.047320250421762466
+epoch 3  sample - 53   loss - 0.04543080925941467
+epoch 3  sample - 54   loss - 0.16130290925502777
+accumulated loss after 8 samples - 0.7842044234275818
+
+epoch 3  sample - 55   loss - 0.03671128675341606
+epoch 3  sample - 56   loss - 0.07437257468700409
+epoch 3  sample - 57   loss - 0.1882687211036682
+epoch 3  sample - 58   loss - 0.14629027247428894
+epoch 3  sample - 59   loss - 0.14546993374824524
+epoch 3  sample - 60   loss - 0.2113499641418457
+epoch 3  sample - 61   loss - 0.09304262697696686
+epoch 3  sample - 62   loss - 0.16105559468269348
+accumulated loss after 8 samples - 1.193851113319397
+
+epoch 3  sample - 63   loss - 0.17400148510932922
+epoch 3  sample - 64   loss - 0.1720169186592102
+epoch 3  sample - 65   loss - 0.034627765417099
+epoch 3  sample - 66   loss - 0.15013764798641205
+epoch 3  sample - 67   loss - 0.07261841744184494
+epoch 3  sample - 68   loss - 0.17333030700683594
+epoch 3  sample - 69   loss - 0.23837950825691223
+epoch 3  sample - 70   loss - 0.10788361728191376
+accumulated loss after 8 samples - 1.1107828617095947
+
+epoch 3  sample - 71   loss - 0.1617887020111084
+epoch 3  sample - 72   loss - 0.14919497072696686
+epoch 3  sample - 73   loss - 0.16094684600830078
+epoch 3  sample - 74   loss - 0.03658868372440338
+epoch 3  sample - 75   loss - 0.06828048080205917
+epoch 3  sample - 76   loss - 0.10998225212097168
+epoch 3  sample - 77   loss - 0.19200558960437775
+epoch 3  sample - 78   loss - 0.19943451881408691
+accumulated loss after 8 samples - 1.0854688882827759
+
+epoch 3  sample - 79   loss - 0.1690356582403183
+epoch 3  sample - 80   loss - 0.0771881490945816
+epoch 3  sample - 81   loss - 0.10676292330026627
+epoch 3  sample - 82   loss - 0.0631808340549469
+epoch 3  sample - 83   loss - 0.18182656168937683
+epoch 3  sample - 84   loss - 0.15592916309833527
+epoch 3  sample - 85   loss - 0.16419252753257751
+epoch 3  sample - 86   loss - 0.12868574261665344
+accumulated loss after 8 samples - 1.0445563793182373
+
+epoch 3  sample - 87   loss - 0.16679054498672485
+epoch 3  sample - 88   loss - 0.12485945224761963
+epoch 3  sample - 89   loss - 0.02465265430510044
+epoch 3  sample - 90   loss - 0.17534878849983215
+epoch 3  sample - 91   loss - 0.086397185921669
+epoch 3  sample - 92   loss - 0.18798668682575226
+epoch 3  sample - 93   loss - 0.08980447053909302
+epoch 3  sample - 94   loss - 0.1494068056344986
+accumulated loss after 8 samples - 0.8631578087806702
+
+epoch 3  sample - 95   loss - 0.02470177784562111
+epoch 3  sample - 96   loss - 0.4337528645992279
+epoch 3  sample - 97   loss - 0.16512086987495422
+epoch 3  sample - 98   loss - 0.1815609186887741
+epoch 3  sample - 99   loss - 0.08048222959041595
+epoch 3  sample - 100   loss - 0.04271663725376129
+epoch 3  sample - 101   loss - 0.19011743366718292
+epoch 3  sample - 102   loss - 0.19949719309806824
+accumulated loss after 8 samples - 1.3756444454193115
+
+epoch 3  sample - 103   loss - 0.0823962539434433
+epoch 3  sample - 104   loss - 0.13981717824935913
+epoch 3  sample - 105   loss - 0.1871747523546219
+epoch 3  sample - 106   loss - 0.15739403665065765
+epoch 3  sample - 107   loss - 0.18179377913475037
+epoch 3  sample - 108   loss - 0.179762065410614
+epoch 3  sample - 109   loss - 0.035745274275541306
+epoch 3  sample - 110   loss - 0.2190927118062973
+accumulated loss after 8 samples - 1.1823309659957886
+
+epoch 3  sample - 111   loss - 0.08155122399330139
+epoch 3  sample - 112   loss - 0.10203680396080017
+epoch 3  sample - 113   loss - 0.0668812021613121
+epoch 3  sample - 114   loss - 0.13843464851379395
+epoch 3  sample - 115   loss - 0.16509073972702026
+epoch 3  sample - 116   loss - 0.19984853267669678
+epoch 3  sample - 117   loss - 0.23491394519805908
+epoch 3  sample - 118   loss - 0.11620043963193893
+accumulated loss after 8 samples - 1.2064621448516846
+
+epoch 3  sample - 119   loss - 0.18305592238903046
+epoch 3  sample - 120   loss - 0.07442937046289444
+epoch 3  sample - 121   loss - 0.11552103608846664
+epoch 3  sample - 122   loss - 0.16644328832626343
+epoch 3  sample - 123   loss - 0.16103513538837433
+epoch 3  sample - 124   loss - 0.2876984775066376
+epoch 3  sample - 125   loss - 0.2397364228963852
+epoch 3  sample - 126   loss - 0.10715503245592117
+accumulated loss after 8 samples - 1.223354458808899
+
+epoch 3  sample - 127   loss - 0.07133572548627853
+epoch 3  sample - 128   loss - 0.05831431224942207
+epoch 3  sample - 129   loss - 0.11461913585662842
+epoch 3  sample - 130   loss - 0.0869394913315773
+epoch 3  sample - 131   loss - 0.11295437067747116
+epoch 3  sample - 132   loss - 0.047108426690101624
+epoch 3  sample - 133   loss - 0.15621641278266907
+epoch 3  sample - 134   loss - 0.12972067296504974
+accumulated loss after 8 samples - 0.8467728495597839
+
+epoch 3  sample - 135   loss - 0.14089997112751007
+epoch 3  sample - 136   loss - 0.050104811787605286
+epoch 3  sample - 137   loss - 0.20050367712974548
+epoch 3  sample - 138   loss - 0.05858508497476578
+epoch 3  sample - 139   loss - 0.1772773414850235
+epoch 3  sample - 140   loss - 0.15713684260845184
+epoch 3  sample - 141   loss - 0.06475584954023361
+epoch 3  sample - 142   loss - 0.1934216320514679
+accumulated loss after 8 samples - 1.0802507400512695
+
+epoch 3  sample - 143   loss - 0.17846544086933136
+epoch 3  sample - 144   loss - 0.25571420788764954
+epoch 3  sample - 145   loss - 0.12755338847637177
+epoch 3  sample - 146   loss - 0.175496906042099
+epoch 3  sample - 147   loss - 0.08410220593214035
+epoch 3  sample - 148   loss - 0.1709701120853424
+epoch 3  sample - 149   loss - 0.12533821165561676
+epoch 3  sample - 150   loss - 0.13672272861003876
+accumulated loss after 8 samples - 1.2809605598449707
+
+epoch 3  sample - 151   loss - 0.2050628364086151
+epoch 3  sample - 152   loss - 0.14329931139945984
+epoch 3  sample - 153   loss - 0.16156116127967834
+epoch 3  sample - 154   loss - 0.11658819019794464
+epoch 3  sample - 155   loss - 0.13524413108825684
+epoch 3  sample - 156   loss - 0.20976746082305908
+epoch 3  sample - 157   loss - 0.13140517473220825
+epoch 3  sample - 158   loss - 0.17559683322906494
+accumulated loss after 8 samples - 1.28144371509552
+
+epoch 3  sample - 159   loss - 0.20798149704933167
+epoch 3  sample - 160   loss - 0.15776918828487396
+epoch 3  sample - 161   loss - 0.11646272242069244
+epoch 3  sample - 162   loss - 0.06276942789554596
+epoch 3  sample - 163   loss - 0.17937971651554108
+epoch 3  sample - 164   loss - 0.10506363213062286
+epoch 3  sample - 165   loss - 0.3044229745864868
+epoch 3  sample - 166   loss - 0.1567980796098709
+accumulated loss after 8 samples - 1.2702836990356445
+
+epoch 3  sample - 167   loss - 0.18761800229549408
+epoch 3  sample - 168   loss - 0.06323174387216568
+epoch 3  sample - 169   loss - 0.11807858943939209
+epoch 3  sample - 170   loss - 0.28162699937820435
+epoch 3  sample - 171   loss - 0.33648955821990967
+epoch 3  sample - 172   loss - 0.2398737519979477
+epoch 3  sample - 173   loss - 0.17390504479408264
+epoch 3  sample - 174   loss - 0.04657170921564102
+accumulated loss after 8 samples - 1.4158381223678589
+
+epoch 3  sample - 175   loss - 0.15606069564819336
+epoch 3  sample - 176   loss - 0.197300523519516
+epoch 3  sample - 177   loss - 0.10330930352210999
+epoch 3  sample - 178   loss - 0.038448482751846313
+epoch 3  sample - 179   loss - 0.10162723064422607
+epoch 3  sample - 180   loss - 0.021241353824734688
+epoch 3  sample - 181   loss - 0.1819625198841095
+epoch 3  sample - 182   loss - 0.13245710730552673
+accumulated loss after 8 samples - 0.8695429563522339
+
+epoch 3  sample - 183   loss - 0.09319639205932617
+epoch 3  sample - 184   loss - 0.09388390928506851
+epoch 3  sample - 185   loss - 0.14650669693946838
+epoch 3  sample - 186   loss - 0.18115276098251343
+epoch 3  sample - 187   loss - 0.13137772679328918
+epoch 3  sample - 188   loss - 0.11877530068159103
+epoch 3  sample - 189   loss - 0.13656523823738098
+epoch 3  sample - 190   loss - 0.10668586194515228
+accumulated loss after 8 samples - 1.3060593605041504
+
+epoch 3  sample - 191   loss - 0.3911118805408478
+epoch 3  sample - 192   loss - 0.06821226328611374
+epoch 3  sample - 193   loss - 0.09537048637866974
+epoch 3  sample - 194   loss - 0.08530205488204956
+epoch 3  sample - 195   loss - 0.06262614578008652
+epoch 3  sample - 196   loss - 0.20425651967525482
+epoch 3  sample - 197   loss - 0.16295722126960754
+epoch 3  sample - 198   loss - 0.2543029189109802
+accumulated loss after 8 samples - 1.2861424684524536
+
+epoch 3  sample - 199   loss - 0.35311487317085266
+epoch 4  sample - 0   loss - 0.06591852009296417
+epoch 4  sample - 1   loss - 0.1389361470937729
+epoch 4  sample - 2   loss - 0.09194714576005936
+epoch 4  sample - 3   loss - 0.16935622692108154
+epoch 4  sample - 4   loss - 0.1724417358636856
+epoch 4  sample - 5   loss - 0.1640460193157196
+epoch 4  sample - 6   loss - 0.1659068912267685
+accumulated loss after 8 samples - 1.1331197023391724
+
+epoch 4  sample - 7   loss - 0.1645670384168625
+epoch 4  sample - 8   loss - 0.105205237865448
+epoch 4  sample - 9   loss - 0.020310865715146065
+epoch 4  sample - 10   loss - 0.1809030920267105
+epoch 4  sample - 11   loss - 0.13461583852767944
+epoch 4  sample - 12   loss - 0.1723991334438324
+epoch 4  sample - 13   loss - 0.03220849111676216
+epoch 4  sample - 14   loss - 0.07973916828632355
+accumulated loss after 8 samples - 0.8540905714035034
+
+epoch 4  sample - 15   loss - 0.12870873510837555
+epoch 4  sample - 16   loss - 0.388431578874588
+epoch 4  sample - 17   loss - 0.12997634708881378
+epoch 4  sample - 18   loss - 0.20045694708824158
+epoch 4  sample - 19   loss - 0.10139869898557663
+epoch 4  sample - 20   loss - 0.15946298837661743
+epoch 4  sample - 21   loss - 0.15552452206611633
+epoch 4  sample - 22   loss - 0.053323764353990555
+accumulated loss after 8 samples - 1.3530089855194092
+
+epoch 4  sample - 23   loss - 0.1644340604543686
+epoch 4  sample - 24   loss - 0.17526642978191376
+epoch 4  sample - 25   loss - 0.1374911516904831
+epoch 4  sample - 26   loss - 0.10355068743228912
+epoch 4  sample - 27   loss - 0.05690782517194748
+epoch 4  sample - 28   loss - 0.2205604612827301
+epoch 4  sample - 29   loss - 0.03968753665685654
+epoch 4  sample - 30   loss - 0.10850261151790619
+accumulated loss after 8 samples - 1.0649526119232178
+
+epoch 4  sample - 31   loss - 0.22298584878444672
+epoch 4  sample - 32   loss - 0.10562699288129807
+epoch 4  sample - 33   loss - 0.030243653804063797
+epoch 4  sample - 34   loss - 0.15791532397270203
+epoch 4  sample - 35   loss - 0.22959955036640167
+epoch 4  sample - 36   loss - 0.15572263300418854
+epoch 4  sample - 37   loss - 0.1544988453388214
+epoch 4  sample - 38   loss - 0.10579074174165726
+accumulated loss after 8 samples - 1.0330227613449097
+
+epoch 4  sample - 39   loss - 0.0936250314116478
+epoch 4  sample - 40   loss - 0.130318745970726
+epoch 4  sample - 41   loss - 0.27199631929397583
+epoch 4  sample - 42   loss - 0.14595483243465424
+epoch 4  sample - 43   loss - 0.14444582164287567
+epoch 4  sample - 44   loss - 0.12094774842262268
+epoch 4  sample - 45   loss - 0.1638992726802826
+epoch 4  sample - 46   loss - 0.11150001734495163
+accumulated loss after 8 samples - 1.2442597150802612
+
+epoch 4  sample - 47   loss - 0.15519686043262482
+epoch 4  sample - 48   loss - 0.040242116898298264
+epoch 4  sample - 49   loss - 0.1410837471485138
+epoch 4  sample - 50   loss - 0.19908961653709412
+epoch 4  sample - 51   loss - 0.1332206279039383
+epoch 4  sample - 52   loss - 0.2849486172199249
+epoch 4  sample - 53   loss - 0.10182816535234451
+epoch 4  sample - 54   loss - 0.09413626790046692
+accumulated loss after 8 samples - 1.3132425546646118
+
+epoch 4  sample - 55   loss - 0.3186933696269989
+epoch 4  sample - 56   loss - 0.17057183384895325
+epoch 4  sample - 57   loss - 0.20405733585357666
+epoch 4  sample - 58   loss - 0.14232705533504486
+epoch 4  sample - 59   loss - 0.04957572743296623
+epoch 4  sample - 60   loss - 0.08685723692178726
+epoch 4  sample - 61   loss - 0.15444354712963104
+epoch 4  sample - 62   loss - 0.16821728646755219
+accumulated loss after 8 samples - 1.1697814464569092
+
+epoch 4  sample - 63   loss - 0.1937313824892044
+epoch 4  sample - 64   loss - 0.18031753599643707
+epoch 4  sample - 65   loss - 0.10181784629821777
+epoch 4  sample - 66   loss - 0.16113266348838806
+epoch 4  sample - 67   loss - 0.13297615945339203
+epoch 4  sample - 68   loss - 0.20021763443946838
+epoch 4  sample - 69   loss - 0.12404366582632065
+epoch 4  sample - 70   loss - 0.13272206485271454
+accumulated loss after 8 samples - 1.0922987461090088
+
+epoch 4  sample - 71   loss - 0.05907121300697327
+epoch 4  sample - 72   loss - 0.18674622476100922
+epoch 4  sample - 73   loss - 0.13959656655788422
+epoch 4  sample - 74   loss - 0.16298317909240723
+epoch 4  sample - 75   loss - 0.19606880843639374
+epoch 4  sample - 76   loss - 0.32723984122276306
+epoch 4  sample - 77   loss - 0.14576634764671326
+epoch 4  sample - 78   loss - 0.06064048781991005
+accumulated loss after 8 samples - 1.3664867877960205
+
+epoch 4  sample - 79   loss - 0.14744529128074646
+epoch 4  sample - 80   loss - 0.08875007927417755
+epoch 4  sample - 81   loss - 0.1567193865776062
+epoch 4  sample - 82   loss - 0.3381369113922119
+epoch 4  sample - 83   loss - 0.17073284089565277
+epoch 4  sample - 84   loss - 0.1781444400548935
+epoch 4  sample - 85   loss - 0.14120471477508545
+epoch 4  sample - 86   loss - 0.12765753269195557
+accumulated loss after 8 samples - 1.3404991626739502
+
+epoch 4  sample - 87   loss - 0.13915322721004486
+epoch 4  sample - 88   loss - 0.17385932803153992
+epoch 4  sample - 89   loss - 0.14172543585300446
+epoch 4  sample - 90   loss - 0.17227384448051453
+epoch 4  sample - 91   loss - 0.4264259934425354
+epoch 4  sample - 92   loss - 0.06760358065366745
+epoch 4  sample - 93   loss - 0.20658157765865326
+epoch 4  sample - 94   loss - 0.07815974205732346
+accumulated loss after 8 samples - 1.4227972030639648
+
+epoch 4  sample - 95   loss - 0.15616768598556519
+epoch 4  sample - 96   loss - 0.14337483048439026
+epoch 4  sample - 97   loss - 0.2157406061887741
+epoch 4  sample - 98   loss - 0.1522771269083023
+epoch 4  sample - 99   loss - 0.18671981990337372
+epoch 4  sample - 100   loss - 0.048436012119054794
+epoch 4  sample - 101   loss - 0.06257040053606033
+epoch 4  sample - 102   loss - 0.032741282135248184
+accumulated loss after 8 samples - 0.8585735559463501
+
+epoch 4  sample - 103   loss - 0.016713520511984825
+epoch 4  sample - 104   loss - 0.11065243929624557
+epoch 4  sample - 105   loss - 0.110059954226017
+epoch 4  sample - 106   loss - 0.06264229863882065
+epoch 4  sample - 107   loss - 0.18030095100402832
+epoch 4  sample - 108   loss - 0.15229636430740356
+epoch 4  sample - 109   loss - 0.10073485225439072
+epoch 4  sample - 110   loss - 0.05655606836080551
+accumulated loss after 8 samples - 0.9543755650520325
+
+epoch 4  sample - 111   loss - 0.18113268911838531
+epoch 4  sample - 112   loss - 0.14289335906505585
+epoch 4  sample - 113   loss - 0.09562598168849945
+epoch 4  sample - 114   loss - 0.1075354814529419
+epoch 4  sample - 115   loss - 0.06424471735954285
+epoch 4  sample - 116   loss - 0.11513260006904602
+epoch 4  sample - 117   loss - 0.0803445503115654
+epoch 4  sample - 118   loss - 0.14331360161304474
+accumulated loss after 8 samples - 0.9861669540405273
+
+epoch 4  sample - 119   loss - 0.23707669973373413
+epoch 4  sample - 120   loss - 0.14068827033042908
+epoch 4  sample - 121   loss - 0.0800435021519661
+epoch 4  sample - 122   loss - 0.16401134431362152
+epoch 4  sample - 123   loss - 0.06503032892942429
+epoch 4  sample - 124   loss - 0.17610792815685272
+epoch 4  sample - 125   loss - 0.17759329080581665
+epoch 4  sample - 126   loss - 0.0790569856762886
+accumulated loss after 8 samples - 1.0725631713867188
+
+epoch 4  sample - 127   loss - 0.1900315135717392
+epoch 4  sample - 128   loss - 0.16214531660079956
+epoch 4  sample - 129   loss - 0.155992791056633
+epoch 4  sample - 130   loss - 0.10173958539962769
+epoch 4  sample - 131   loss - 0.07798468321561813
+epoch 4  sample - 132   loss - 0.13121597468852997
+epoch 4  sample - 133   loss - 0.05086643993854523
+epoch 4  sample - 134   loss - 0.061359237879514694
+accumulated loss after 8 samples - 0.7989047765731812
+
+epoch 4  sample - 135   loss - 0.0576007142663002
+epoch 4  sample - 136   loss - 0.1233622133731842
+epoch 4  sample - 137   loss - 0.11216514557600021
+epoch 4  sample - 138   loss - 0.22591069340705872
+epoch 4  sample - 139   loss - 0.21273194253444672
+epoch 4  sample - 140   loss - 0.1199130043387413
+epoch 4  sample - 141   loss - 0.1566869169473648
+epoch 4  sample - 142   loss - 0.1615510731935501
+accumulated loss after 8 samples - 1.212504506111145
+
+epoch 4  sample - 143   loss - 0.10018347203731537
+epoch 4  sample - 144   loss - 0.09332351386547089
+epoch 4  sample - 145   loss - 0.04219730570912361
+epoch 4  sample - 146   loss - 0.08224016427993774
+epoch 4  sample - 147   loss - 0.10520356148481369
+epoch 4  sample - 148   loss - 0.08840617537498474
+epoch 4  sample - 149   loss - 0.1894671469926834
+epoch 4  sample - 150   loss - 0.061606548726558685
+accumulated loss after 8 samples - 0.9592770338058472
+
+epoch 4  sample - 151   loss - 0.2968325912952423
+epoch 4  sample - 152   loss - 0.0836089700460434
+epoch 4  sample - 153   loss - 0.0176585391163826
+epoch 4  sample - 154   loss - 0.17882241308689117
+epoch 4  sample - 155   loss - 0.11922290921211243
+epoch 4  sample - 156   loss - 0.16006287932395935
+epoch 4  sample - 157   loss - 0.2519659399986267
+epoch 4  sample - 158   loss - 0.033438749611377716
+accumulated loss after 8 samples - 1.007091760635376
+
+epoch 4  sample - 159   loss - 0.16231141984462738
+epoch 4  sample - 160   loss - 0.17845730483531952
+epoch 4  sample - 161   loss - 0.10710947960615158
+epoch 4  sample - 162   loss - 0.19410288333892822
+epoch 4  sample - 163   loss - 0.13048133254051208
+epoch 4  sample - 164   loss - 0.13125601410865784
+epoch 4  sample - 165   loss - 0.2781546711921692
+epoch 4  sample - 166   loss - 0.057331379503011703
+accumulated loss after 8 samples - 1.0854976177215576
+
+epoch 4  sample - 167   loss - 0.008604545146226883
+epoch 4  sample - 168   loss - 0.15360234677791595
+epoch 4  sample - 169   loss - 0.05545701086521149
+epoch 4  sample - 170   loss - 0.15982560813426971
+epoch 4  sample - 171   loss - 0.1860143542289734
+epoch 4  sample - 172   loss - 0.1386079490184784
+epoch 4  sample - 173   loss - 0.0616370253264904
+epoch 4  sample - 174   loss - 0.22715915739536285
+accumulated loss after 8 samples - 1.1562883853912354
+
+epoch 4  sample - 175   loss - 0.17398488521575928
+epoch 4  sample - 176   loss - 0.10470280796289444
+epoch 4  sample - 177   loss - 0.22205980122089386
+epoch 4  sample - 178   loss - 0.12419822067022324
+epoch 4  sample - 179   loss - 0.26555314660072327
+epoch 4  sample - 180   loss - 0.04487563669681549
+epoch 4  sample - 181   loss - 0.09371120482683182
+epoch 4  sample - 182   loss - 0.10821960121393204
+accumulated loss after 8 samples - 1.1233923435211182
+
+epoch 4  sample - 183   loss - 0.1600719541311264
+epoch 4  sample - 184   loss - 0.03743613883852959
+epoch 4  sample - 185   loss - 0.11599861085414886
+epoch 4  sample - 186   loss - 0.10289505124092102
+epoch 4  sample - 187   loss - 0.0283393282443285
+epoch 4  sample - 188   loss - 0.07064037024974823
+epoch 4  sample - 189   loss - 0.07991005480289459
+epoch 4  sample - 190   loss - 0.1903429627418518
+accumulated loss after 8 samples - 0.6595780849456787
+
+epoch 4  sample - 191   loss - 0.034015581011772156
+epoch 4  sample - 192   loss - 0.015979789197444916
+epoch 4  sample - 193   loss - 0.17657548189163208
+epoch 4  sample - 194   loss - 0.1312192976474762
+epoch 4  sample - 195   loss - 0.11745791882276535
+epoch 4  sample - 196   loss - 0.14325715601444244
+epoch 4  sample - 197   loss - 0.018842261284589767
+epoch 4  sample - 198   loss - 0.24278849363327026
+accumulated loss after 8 samples - 1.0145357847213745
+
+epoch 4  sample - 199   loss - 0.16841541230678558
+Training Done!!! Saving the Model -------
+
+Model Saved!   Running Test - 
+Below is an instruction that describes a task, paired with an input that provides further context. 
+                Write a response that appropriately completes the request.
+
+"
+                ### Instruction:
+Classify the following news article
+
+News Article: 
+
+Apple Inc. reported a stronger than expected fiscal third quarter on Tuesday and announced plans to raise its dividend.
+
+### Input:
+News Article: 
+Apple Inc. reported a stronger than expected fiscal third quarter on Tuesday and announced plans to raise its dividend.
+
+### Response:
+The response according to dataset - /n The article is classified as Positive Financial News.
+>Result generated by trained model - /n The article reports that Apple Inc. reported a stronger than expected fiscal third quarter and announced plans to raise its dividend.
+
+==================================
+
+Below is an instruction that describes a task. 
+               Write a response that appropriately completes the request.
+
+"
+               ### Instruction:
+Brainstorm three potential use cases in healthcare for natural language processing.
+
+### Response:
+The response according to dataset - /n Three potential use cases in healthcare for natural language processing: 
+
+1. Clinical Note Summarization: Natural language processing-based systems can help clinicians to quickly and accurately summarize patient notes. This can enable doctors to more easily review patient records, helping to improve the accuracy and efficiency of patient care. 
+
+2. Diagnosis Prediction: Natural language processing can also be used to predict disease diagnosis based on patient history. Using machine learning algorithms, doctors can process information from patient notes, helping them to more accurately identify and diagnose conditions. 
+
+3. Virtual Health Assistants: Natural language processing-powered virtual health assistants can provide helpful information and support for patients. By using natural language processing, these assistants can learn to understand the user, interpret their questions, and provide them with helpful advice.
+>Result generated by trained model - /n Natural language processing (NLP) can be used in healthcare for a variety of tasks, including:
+
+1. Automated data entry: NLP can be used to automatically extract and enter data from medical records, freeing up time for healthcare workers to focus on more complex tasks.
+2.
+
+==================================
+
+Below is an instruction that describes a task. 
+               Write a response that appropriately completes the request.
+
+"
+               ### Instruction:
+Name a language spoken in Africa.
+
+### Response:
+The response according to dataset - /n Arabic
+>Result generated by trained model - /n Swahili is a language spoken in Africa.
+
+==================================
+
+Below is an instruction that describes a task, paired with an input that provides further context. 
+                Write a response that appropriately completes the request.
+
+"
+                ### Instruction:
+Calculate the angle of two vectors.
+
+### Input:
+Vector A = (3, 4) 
+Vector B = (4, 3)
+
+### Response:
+The response according to dataset - /n 45 degrees
+>Result generated by trained model - /n The angle between vectors A and B is 90 degrees.
+
+==================================
+
+Below is an instruction that describes a task, paired with an input that provides further context. 
+                Write a response that appropriately completes the request.
+
+"
+                ### Instruction:
+Create a lesson plan for a high school science class about plants.
+
+### Input:
+Lesson plan for a high school Biology class
+
+### Response:
+The response according to dataset - /n Objective: Students will gain an understanding of how plants survive by exploring their external and internal structures.
+
+Materials:
+- Diagrams of plant structures
+- Lab equipment (e.g. magnifying glasses and microscopes)
+- Books, papers, articles
+
+Activities:
+1. Students will examine the external features of plants, focusing on the roots, stems, leaves, flowers, and fruits.
+2. Students will discuss the adaptive functions of each external part.
+3. Students will discuss the ways in which plant cells and tissues help plants survive.
+4. Students will use microscopes to observe plant cells up close.
+5. Students will research and discuss the ways in which plants are adapted to various environments.
+6. Students will discuss the importance of plants in the environment and in human life.
+
+Assessment:
+At the end of the lesson, students will create a poster that illustrates the importance of plants and how they are adapted to survive.
+>Result generated by trained model - /n The lesson plan for a high school Biology class should cover the following topics:
+
+==================================
+
